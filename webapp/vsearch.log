@@ -1,0 +1,11 @@
+<Request 'http://127.0.0.1:5000/search_for' [POST]> {'e', 'i'}
+<Request 'http://127.0.0.1:5000/search_for' [POST]> {'e', 'a', 'u', 'i'}
+<Request 'http://127.0.0.1:5000/search_for' [POST]> {'x', 'y'}
+<Request 'http://127.0.0.1:5000/search_for' [POST]> {'g'}
+<Request 'http://127.0.0.1:5000/search_for' [POST]> {'y', 'a'}
+<Request 'http://127.0.0.1:5000/search_for' [POST]> {'y', 'a'}
+<Request 'http://127.0.0.1:5000/search_for' [POST]> set()
+<Request 'http://127.0.0.1:5000/search_for' [POST]> set()
+<Request 'http://127.0.0.1:5000/search_for' [POST]> {'o'}
+<Request 'http://127.0.0.1:5000/search_for' [POST]> {'l'}
+<Request 'http://127.0.0.1:5000/search_for' [POST]> {'H', 'l', 'o', 'e'}
